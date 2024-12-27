@@ -1,0 +1,13 @@
+{
+  "name": "knight-travails-graph",
+  "version": "1.0.0",
+  "description": "A submission in Odin project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
